@@ -38,8 +38,6 @@ function toyCollection() {
             });
 }
 
-
-
 function addToys() {
   let name = document.getElementsByClassName('input-text').name.value;
   let image = document.getElementsByClassName('input-text').image.value
